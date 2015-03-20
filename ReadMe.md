@@ -7,7 +7,7 @@ Les données sont issues de [http://data.paysdelaloire.fr](http://data.paysdelal
 
 ## Architecture
 
-![architecture.png](images/architecture.png)
+![architecture.png](img/architecture.png)
 
 ## Fonctionnement basique
 
