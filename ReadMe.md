@@ -27,15 +27,9 @@ Une fois cette base de donnée en place, le serveur (*rest-example.py*) permet, 
 
 Sur la page d'accueil, un formulaire est disponible. Il est possible de : 
 
-1. Chercher toutes les installations sportives d'une ville propre à un sport donné.
-  -En entrant une ville dans le champ ville 
-  -Et en entrant un sport dans le champ sport.
-2. Chercher toutes les villes de la région ou il est possible de pratiquer un sport.
-  -En entrant uniquement un sport dans le champ sport.
-  -Et en laissant le champ ville vide.
-3. Chercher toutes les installations sportives disponibles dans une ville.
-  -En entrant uniquement une ville dans le champ ville.
-  -Et en laissant le champ sport vide.
+1. Chercher toutes les installations sportives d'une ville propre à un sport donné. (Champ ville + sport) 
+2. Chercher toutes les villes de la région ou il est possible de pratiquer un sport. (Champ sport uniquement)
+3. Chercher toutes les installations sportives disponibles dans une ville. (Champ ville uniquement)
 
 Dans le cas ou uniquement le champ sport est entré, une liste des villes ou il est possible de pratiquer le sport s'affiche. Cliquer sur le nom d'une ville affiche la liste des installations disponible pour ce sport dans cette ville.
 
